@@ -15,3 +15,5 @@ printf("%d\t",marks[i]);
 }	
 	return 0;
 }
+
+// this is simple array program
